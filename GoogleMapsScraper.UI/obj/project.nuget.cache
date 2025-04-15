@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "deVKwQ6IQc4=",
-  "success": false,
+  "dgSpecHash": "iTWVb9NIs4k=",
+  "success": true,
   "projectFilePath": "/Users/nguyenhuynhduc1205/Downloads/project crawl/GoogleMapsScraper.UI/GoogleMapsScraper.UI.csproj",
   "expectedPackageFiles": [
     "/Users/nguyenhuynhduc1205/.nuget/packages/avalonia/11.2.7/avalonia.11.2.7.nupkg.sha512",
@@ -26,21 +26,21 @@
     "/Users/nguyenhuynhduc1205/.nuget/packages/microcom.runtime/0.11.0/microcom.runtime.0.11.0.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.configuration/9.0.4/microsoft.extensions.configuration.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.configuration.abstractions/9.0.4/microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.configuration.binder/8.0.0/microsoft.extensions.configuration.binder.8.0.0.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.configuration.binder/9.0.4/microsoft.extensions.configuration.binder.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.configuration.fileextensions/8.0.1/microsoft.extensions.configuration.fileextensions.8.0.1.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.configuration.json/8.0.1/microsoft.extensions.configuration.json.8.0.1.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.dependencyinjection/9.0.4/microsoft.extensions.dependencyinjection.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.4/microsoft.extensions.dependencyinjection.abstractions.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.0/microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.configuration/8.0.0/microsoft.extensions.logging.configuration.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.console/8.0.0/microsoft.extensions.logging.console.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.debug/8.0.0/microsoft.extensions.logging.debug.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.options.configurationextensions/8.0.0/microsoft.extensions.options.configurationextensions.8.0.0.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging/9.0.4/microsoft.extensions.logging.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.4/microsoft.extensions.logging.abstractions.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.configuration/9.0.4/microsoft.extensions.logging.configuration.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.console/9.0.4/microsoft.extensions.logging.console.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.logging.debug/9.0.4/microsoft.extensions.logging.debug.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.options/9.0.4/microsoft.extensions.options.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.options.configurationextensions/9.0.4/microsoft.extensions.options.configurationextensions.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.extensions.primitives/9.0.4/microsoft.extensions.primitives.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.io.recyclablememorystream/3.0.1/microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.net.illink.tasks/8.0.10/microsoft.net.illink.tasks.8.0.10.nupkg.sha512",
@@ -53,28 +53,18 @@
     "/Users/nguyenhuynhduc1205/.nuget/packages/skiasharp.nativeassets.webassembly/2.88.9/skiasharp.nativeassets.webassembly.2.88.9.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/skiasharp.nativeassets.win32/2.88.9/skiasharp.nativeassets.win32.2.88.9.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/system.componentmodel.annotations/5.0.0/system.componentmodel.annotations.5.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/system.io.pipelines/8.0.0/system.io.pipelines.8.0.0.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/system.diagnostics.diagnosticsource/9.0.4/system.diagnostics.diagnosticsource.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/system.io.pipelines/9.0.4/system.io.pipelines.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/system.security.cryptography.pkcs/8.0.1/system.security.cryptography.pkcs.8.0.1.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/system.security.cryptography.xml/8.0.2/system.security.cryptography.xml.8.0.2.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/system.text.encoding.codepages/8.0.0/system.text.encoding.codepages.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
-    "/Users/nguyenhuynhduc1205/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/system.text.encodings.web/9.0.4/system.text.encodings.web.9.0.4.nupkg.sha512",
+    "/Users/nguyenhuynhduc1205/.nuget/packages/system.text.json/9.0.4/system.text.json.9.0.4.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/tmds.dbus.protocol/0.20.0/tmds.dbus.protocol.0.20.0.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.netcore.app.runtime.win-x64/8.0.10/microsoft.netcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/8.0.10/microsoft.aspnetcore.app.runtime.win-x64.8.0.10.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.10/microsoft.netcore.app.crossgen2.osx-arm64.8.0.10.nupkg.sha512",
     "/Users/nguyenhuynhduc1205/.nuget/packages/microsoft.netcore.app.host.win-x64/8.0.10/microsoft.netcore.app.host.win-x64.8.0.10.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1605",
-      "level": "Error",
-      "message": "Warning As Error: Detected package downgrade: Microsoft.Extensions.Logging from 9.0.4 to 8.0.0. Reference the package directly from the project to select a different version. \n GoogleMapsScraper.UI -> GoogleMapsScraper.Core -> Microsoft.Extensions.Logging (>= 9.0.4) \n GoogleMapsScraper.UI -> Microsoft.Extensions.Logging (>= 8.0.0)",
-      "libraryId": "Microsoft.Extensions.Logging",
-      "targetGraphs": [
-        "net8.0",
-        "net8.0/win-x64"
-      ]
-    }
-  ]
+  "logs": []
 }

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCopyrightAttribute("Copyright (c) 2025")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("A secure Google Maps scraper tool for extracting business data.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c93eff1829a855c7437536897d527839501dd1ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("GoogleMapsScraper.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GoogleMapsScraper.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
